@@ -3,16 +3,41 @@ title: "ADV DS Report"
 output: html_notebook
 ---
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+# Cat and Dog Image Classification using Neural Networks to Develop a Web App
+## Susan Nunez, Claire Robinson, Madison Yonash
 
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+# Introduction 
 
-```{r}
-plot(cars)
-```
+As the project for **CAP 4793 Advanced Data Science** was very open-ended, our team wanted to choose a project that encompasses both something that interests us and something that would challenge us to do something new. Our inspiration came from our furry friends:
 
-Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+<center>
+![Claire's Dog, Miss Macy](https://raw.githubusercontent.com/madiyonash/catdog_app/main/project/report-photos/clairedog.JPG){height=250px} ![Madi's Cat, Miss Lazzy](https://raw.githubusercontent.com/madiyonash/catdog_app/main/project/report-photos/madicat.jpeg){height=250px}
+</center>
 
-When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
 
-The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+If you're a human looking at those photos, you can probably easily tell that one is a cat and one is a (very stylish) dog. But if you have 25,000 photos of cats and dogs, it would take quite a bit of time for a human to **cat**egorize all of them. This is where machine learning comes in. Our team created a convulsional neural network to perform this task. Additionally, we wanted to create an interface in which a user could upload their own photo and have the model classify it. We were very **mew** to both of these tasks, so it provided a great learning opportunity. 
+
+
+# Data Description
+
+Susan
+
+# Exploratory Data Analysis
+
+Claire
+
+# Modeling
+
+Claire
+
+# Web App
+
+
+
+# Conclusion
+
+Susan
+
+# Future Work
+
+Susan
