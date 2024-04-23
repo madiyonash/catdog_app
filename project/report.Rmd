@@ -17,7 +17,6 @@ As the project for **CAP 4793 Advanced Data Science** was very open-ended, our t
 
 If you're a human looking at those photos, you can probably easily tell that one is a cat and one is a (very stylish) dog. But if you have 25,000 photos of cats and dogs, it would take quite a bit of time for a human to **cat**egorize all of them. This is where machine learning comes in. Our team created a convulsional neural network to perform this task. Additionally, we wanted to create an interface in which a user could upload their own photo and have the model classify it. We were very **mew** to both of these tasks, so it provided a great learning opportunity. 
 
-
 # Data Description
 
 Susan
@@ -32,7 +31,7 @@ Claire
 
 # Web App
 
-
+The web app was developed using the `flask` package in Python. Our initial approach involved using `shiny`, but due to the greater documentation for `flask` than `shiny` in Python, we switched approaches and this became our **purr**eference.
 
 # Conclusion
 
